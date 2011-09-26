@@ -73,7 +73,7 @@ C<dpkg-scanpmpackages> scripts.
 =head3 manual set-up
 
 	cd /usr/local/bin/
-	wget https://github.com/jozef/Alien-Debian-Apt-PM/blob/master/script/alien-debian-apt-pm
+	wget https://github.com/jozef/Alien-Debian-Apt-PM/raw/master/script/alien-debian-apt-pm
 	ln -s alien-debian-apt-pm apt-cpan
 	ln -s alien-debian-apt-pm apt-pm
 	ln -s alien-debian-apt-pm apt-pm-web
