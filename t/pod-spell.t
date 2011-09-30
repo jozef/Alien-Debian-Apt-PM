@@ -31,5 +31,7 @@ add_stopwords(qw(
 	pm
 	dpkg
 	scanpmpackages
+	pp
+	pmindex
 ));
 all_pod_files_spelling_ok();
